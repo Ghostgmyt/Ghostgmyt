@@ -5,7 +5,7 @@
 
 I'm a software engineering student at **Multimedia University** in Malaysia, graduating in December 2027. I build mobile and web apps, and I'm looking for an **internship starting in August 2027**.
 
-[Portfolio](https://amrnossir.netlify.app) · [LinkedIn](https://www.linkedin.com/in/amr-nossir/)
+[Portfolio](https://amrnossir.netlify.app) · [Resume](Amr-Nossir-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/amr-nossir/)
 
 ## Projects
 
