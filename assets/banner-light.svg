@@ -6,10 +6,7 @@
     <circle cx="1010" cy="140" r="38"/>
     <path d="M1010 22v236M892 140h236" stroke-dasharray="3 6"/>
   </g>
-  <circle cx="1068" cy="96" r="5" fill="#0c8a4d"/>
-  <circle cx="1068" cy="96" r="12" fill="none" stroke="#0c8a4d" stroke-opacity=".35"/>
   <text x="64" y="136" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="-3" fill="#131312">Amr Nossir</text>
   <text x="66" y="190" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#6a6a64">Software developer. Mobile and web.</text>
-  <circle cx="70" cy="226" r="5" fill="#0c8a4d"/>
-  <text x="86" y="232" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#6a6a64">Internship from August 2027</text>
+  <text x="66" y="232" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#6a6a64">Internship from August 2027</text>
 </svg>
