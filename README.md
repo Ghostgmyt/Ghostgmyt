@@ -13,9 +13,9 @@ I'm a software engineering student at **Multimedia University** in Malaysia, gra
 
 | | |
 |---|---|
-| **[Atoll ATC](https://github.com/Ghostgmyt/atoll-atc)** | A live, multiplayer air traffic control simulator for the Maldives. JavaScript and canvas, no framework. [Play it](https://ghostgmyt.github.io/atoll-atc/) |
-| **Lumen News** | A news reader that reads the day's stories aloud, with a local language model. Flutter, Dart and Python. Final-year project, in progress. |
-| **[TT4L-12](https://github.com/Ghostgmyt/TT4L-12)** | The 2024 Flask air traffic control app that Atoll grew out of. |
+| <img src="assets/atoll.svg" width="46" alt=""> | **[Atoll ATC](https://github.com/Ghostgmyt/atoll-atc)**<br>A live, multiplayer air traffic control simulator for the Maldives. JavaScript and canvas, no framework. [Play it](https://ghostgmyt.github.io/atoll-atc/) |
+| <img src="assets/lumen.svg" width="46" alt=""> | **Lumen News**<br>A news reader that reads the day's stories aloud, with a local language model. Flutter, Dart and Python. Final-year project, in progress. |
+| <img src="assets/ghost.svg" width="46" alt=""> | **[TT4L-12](https://github.com/Ghostgmyt/TT4L-12)**<br>The 2024 Flask air traffic control app that Atoll grew out of. |
 
 ## Skills
 
